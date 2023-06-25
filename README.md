@@ -6,4 +6,6 @@ In this project I built a holiday planner in ABC hotel's website ,where customer
 ## Objective
 This project was done to practise and further understand the use of functions in python programming.
 
+### Below is a snip of how the output looks
+
 ![ A snip of the output](https://github.com/joseashly999/holiday_planner/blob/main/hloiday.png)
